@@ -15,6 +15,8 @@ group :development, :test do
   gem "capybara"
   gem "database_cleaner"
   gem "pry-byebug"
+  gem "pry"
+  gem "pry-rails"
   gem "rspec-rails"
 end
 
